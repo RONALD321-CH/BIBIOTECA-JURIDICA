@@ -1,0 +1,23 @@
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: rgb(9, 14, 4);
+
+
+}
+button{
+    padding: 20px 50px;
+    font-size: 40px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 2px solid white;
+
+}
+button:hover {
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+    transition: 4s ease;
+
+}
